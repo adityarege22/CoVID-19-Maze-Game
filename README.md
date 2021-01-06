@@ -1,1 +1,1 @@
-# CoVID-19-Maze-Game
+# trexrunner
